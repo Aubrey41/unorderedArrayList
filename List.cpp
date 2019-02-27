@@ -7,6 +7,7 @@ using namespace std;
 
 List::List(void)
 {size = 0;}
+//My name Smangaliso Aubrey
 
 
 List::~List(void)

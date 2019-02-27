@@ -1,4 +1,5 @@
 #pragma once
+//My name is Smangaliso Aubrey 
 
 const int MaxSize = 15;
 typedef  int DataType;
